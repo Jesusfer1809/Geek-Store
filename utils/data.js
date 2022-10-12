@@ -1,0 +1,277 @@
+export const products = [
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: null,
+    name: 'Computadora PCYA Intel Core i316GB RAM 250GB SSD + 1TB HDD 4GB GTX 1650 24" FHD',
+    cost: 3799.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/9RSzuNv.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: null,
+    name: 'Computadora Pc Intel Core I7 3.4 Ghz Ram 16Gb 1Tb Monitor 24"',
+    cost: 2349.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/npw7bc4.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: null,
+    name: "Computadora PC Gamer Intel Core i7 3.2 Ghz RAM 16GB, DISCO 1TB VIDEO GTX 1050 4GB CASE 500W LED",
+    cost: 3219.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/EU8HY0K.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Xbox",
+    name: "Consola Xbox Serie X 1Tb-Negro.",
+    cost: 2899.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/GZPF3zk.jpg",
+  },
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Play Station",
+    name: "Consola PlayStation 5 Lector de discos + Grand Theft Auto V GTA",
+    cost: 3749.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/PT5o10W.jpg",
+  },
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Play Station",
+    name: "Ps5 Hw Standard - Latam Sony -Blanco",
+    cost: 3299.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/L5eLLn5.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Play Station",
+    name: "Consola PS4 Slim 500GB Jet Black",
+    cost: 1999.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/qt0Su2Z.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Play Station",
+    name: "Consola Ps4 Slim 1TB + Pes 21 + Avengers + DBZ Fighter + Days Gone",
+    cost: 2989.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/3dwYoAV.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Play Station",
+    name: "Consola PS3 PlayStation 3 Super Slim 250Gb + 20 Juegos Digitales",
+    cost: 799.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/XQ2m8Rd.jpg",
+  },
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Nintendo",
+    name: "Consola Nintendo Switch Modelo Oled Neon + Mario Kart 8 + Mario Party Superstar + Pokémon Legends Arceus",
+    cost: 2579.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/tKAp6RL.jpg",
+  },
+  {
+    p_division: "Gaming",
+    s_division: "Consoles / PC",
+    franchise: "Nintendo",
+    name: "PREVENTA Consola Nintendo Switch Modelo Oled Edicion Splatoon 3",
+    cost: 2399.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/SYg6Ulu.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Nintendo",
+    name: "Pokemon Sword - Espada Nintendo Switch Latam",
+    cost: 215.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/LpOTpoR.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Nintendo",
+    name: "The Legend of Zelda Breath of the Wild Nintendo Switch",
+    cost: 215.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/tBjSthN.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Nintendo",
+    name: "Nintendo Switch Pokemon Shing Pearl",
+    cost: 269.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/l6CBr6Y.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Nintendo",
+    name: "Switch - Dragon Ball Fighter Z",
+    cost: 159.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/GsJHwhe.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Nintendo",
+    name: "Juego de Nintendo Switch Marvel Ultimate Alliance 3",
+    cost: 289.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/AkfL0GM.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Nintendo",
+    name: "Animal Crossing Nintendo Switch Euro",
+    cost: 205.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/tmN9svj.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Videojuego Playstation 3 Destiny",
+    cost: 45.36,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/sg5xxXN.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Marvel Avengers Playstation 4 Latam",
+    cost: 109.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/ayeb6sE.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Resident Evil 5 Playstation 4 Latam",
+    cost: 79.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/scjeZRE.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Resident Evil Village Ps5",
+    cost: 145.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/xhveW41.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Fifa 22 Playstation 5",
+    cost: 119.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/DELjcHc.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Videojuego Playstation 3 Uncharted",
+    cost: 45.36,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/0lQiuJD.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "God Of War PlayStation 4",
+    cost: 69.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/GrZaZ9p.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Sackboy A Big Adventure Playstation 4 Latam",
+    cost: 215.0,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/y2OYKzw.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Videojuego Playstation 3 Hitman Absolution",
+    cost: 45.36,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/GBeigmu.jpg",
+  },
+
+  {
+    p_division: "Gaming",
+    s_division: "Videogames",
+    franchise: "Play Station",
+    name: "Videojuego Rainbow Six Extraction Playstation 4",
+    cost: 176.23,
+    isFavorite: false,
+    img_Src: "https://i.imgur.com/OSNsuCq.jpg",
+  },
+];
+
+export const divisions = [
+  { p_division: "Gaming", s_division: "Videogames" },
+  { p_division: "Gaming", s_division: "Consoles / PC" },
+  { p_division: "Collectibles", s_division: "Action Toys" },
+  { p_division: "Collectibles", s_division: "Funko-Pop" },
+  { p_division: "Collectibles", s_division: "Anime Collectibles" },
+  { p_division: "Merchandise", s_division: "Cups" },
+  { p_division: "Merchandise", s_division: "Clothes" },
+];
